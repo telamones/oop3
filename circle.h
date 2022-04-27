@@ -3,10 +3,10 @@
 
 #include <iostream>
 #include <cmath>
+#include <string>
 using namespace std;
 const double PI = acos(-1.0);
 class Circle {
-private:
     double x;
     double y;
     double r;
